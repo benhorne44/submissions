@@ -9,7 +9,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 ### Selections
 
 * Antony Siegert - 
-* Ben Horne - 
+* Ben Horne - Metz’ Practical Object-Oriented Design with Ruby
 * Ben Lewis - 
 * Billy Griffin - 
 * Bree Thomas - 
